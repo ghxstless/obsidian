@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b3f29be3ccbfe2d6","x":-340,"y":-280,"width":260,"height":140,"type":"file","file":"ITSRVBEN/DEMO./⚜️ CONCEPT..md"},
+		{"id":"f51020f16e4619d8","x":-20,"y":-40,"width":284,"height":85,"type":"text","text":"**PURPOSE**.\nA representation of the battlefield stylistically."}
+	],
+	"edges":[
+		{"id":"a3a883158da7c75b","fromNode":"b3f29be3ccbfe2d6","fromSide":"right","toNode":"f51020f16e4619d8","toSide":"left"}
+	]
+}
